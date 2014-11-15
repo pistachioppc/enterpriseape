@@ -24,5 +24,5 @@ Feel free to access [my portfolio] (https://pistachioppc.herokuapp.com).
 2. Precision
 3. Performance
 
-This is what ruby code would look like `puts 'hello world'
+This is what ruby code would look like `puts 'hello world'`
 
